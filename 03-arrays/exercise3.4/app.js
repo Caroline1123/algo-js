@@ -6,7 +6,7 @@
     console.log('Minimum: ' + arr[0]);
     console.log('Maximum: ' + arr[arr.length-1]); 
     
-    // OR thanks google 
+    // OR (thanks google)
     console.log(Math.min(...arr))
     console.log(Math.max(...arr))
 

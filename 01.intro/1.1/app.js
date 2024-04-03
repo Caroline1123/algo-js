@@ -1,3 +1,9 @@
 (() => {
-    console.log("Oops I deleted my exercises, but this part has been understood.")
+    console.log(2+2);
+    console.log(6/3)
+    console.log(4%2)
+    console.log(3*2)
+
+    let s = "foo"
+    console.log(s)
 })();

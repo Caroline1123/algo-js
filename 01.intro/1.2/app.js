@@ -1,4 +1,6 @@
 (() => {
-    console.log("Oops I also deleted those exercises, but this part has been understood.")
-
+    let name = "Peepo"
+    let familyName = "Sad"
+    let city = "Peepo Ville"
+    console.log("My name is "+ name + " " + familyName + " and I live in "+ city+".")
 })();
